@@ -7,3 +7,4 @@ In this new version:
 - Added a multi environment configuration for development and production in Webpack
 - Added React Refresh for Webpack hot reloading
 - Added ESLint
+- Added Prettier
